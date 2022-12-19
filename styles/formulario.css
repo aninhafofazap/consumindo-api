@@ -39,6 +39,10 @@
 
 }
 
+#erro {
+    color: #c1121f
+}
+
 .formulario__dupla {
     display: flex;
 }
